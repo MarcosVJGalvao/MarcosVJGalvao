@@ -88,7 +88,7 @@ Curso Superior de Tecnologia (CST), Computer Programming, Specific Applications
 
 ## 📊 GitHub
 
-Neste perfil, compartilho projetos, estudos e práticas relacionadas a qualidade de software, automação de testes, APIs, banco de dados e desenvolvimento backend.
+Neste perfil, compartilho projetos, estudos e práticas relacionadas a automação de testes, testes Web, testes de API, Cypress, TypeScript, Jest e qualidade de software.
 
 ---
 
