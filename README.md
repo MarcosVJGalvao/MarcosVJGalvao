@@ -8,7 +8,7 @@ Atuo com foco em garantir a qualidade das entregas, identificar falhas de forma 
 
 ## 🚀 Sobre mim
 
-Trabalho na área de QA, com experiência em testes manuais e de regressão para aplicações **Web, Mobile e API**, além de automação de testes para Web e API.
+Trabalho com testes para aplicações **Web, Mobile e API**, atuando na validação de regras de negócio, fluxos críticos, integrações e dados.
 
 No dia a dia, utilizo **Cypress** em testes automatizados para Web, **Jest** em testes automatizados de API, **Postman** para validação de integrações e **SQL** para análise e conferência de dados.
 
@@ -33,7 +33,7 @@ Tenho experiência com:
 - Validação de regras de negócio
 - Conferência de dados com SQL
 
-Busco sempre atuar de forma colaborativa com o time, entendendo o produto, os fluxos críticos e os possíveis pontos de falha para apoiar entregas com mais qualidade.
+Busco atuar de forma colaborativa com o time, entendendo o produto, os fluxos críticos e os possíveis pontos de falha para apoiar entregas com mais qualidade.
 
 ---
 
@@ -53,18 +53,18 @@ Busco sempre atuar de forma colaborativa com o time, entendendo o produto, os fl
 
 ---
 
-## 📌 Áreas de atuação
+## 📌 Áreas de interesse
 
 - Quality Assurance
-- Testes manuais
-- Testes de regressão
+- Automação de testes
 - Testes Web
 - Testes Mobile
 - Testes de API
-- Automação de testes
-- Validação de integrações
+- Integração entre sistemas
 - Análise de dados com SQL
-- Qualidade de software
+- Backend com Node.js
+- Arquitetura de aplicações
+- Melhoria contínua em processos de qualidade
 
 ---
 
@@ -75,7 +75,6 @@ Busco sempre atuar de forma colaborativa com o time, entendendo o produto, os fl
 - Integração entre sistemas
 - Boas práticas de desenvolvimento
 - Performance e confiabilidade de APIs
-- Melhoria contínua em processos de qualidade
 
 ---
 
@@ -87,23 +86,9 @@ Curso Superior de Tecnologia (CST), Computer Programming, Specific Applications
 
 ---
 
-## 💼 Experiência profissional
+## 📊 GitHub
 
-Atualmente atuo na área de **Quality Assurance**, com foco em testes manuais, testes de regressão, validação de APIs, análise de integrações e automação de testes.
-
-Tenho interesse em evoluir cada vez mais tecnicamente, conectando conhecimentos de QA, backend, banco de dados e arquitetura para contribuir com produtos mais robustos e confiáveis.
-
----
-
-## 📊 GitHub Stats
-
-<div align="left">
-
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosviniciusjgalvao&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosviniciusjgalvao&layout=compact&theme=transparent)
-
-</div>
+Neste perfil, compartilho projetos, estudos e práticas relacionadas a qualidade de software, automação de testes, APIs, banco de dados e desenvolvimento backend.
 
 ---
 
